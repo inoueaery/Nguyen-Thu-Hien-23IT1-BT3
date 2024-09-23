@@ -14,10 +14,10 @@
         <option value="Vietnamese">Vietnamese</option>
       </select>
       <ul class="social">
-        <li><img src="twitter.png" alt="Twitter" width="15" /> Twitter</li>
-        <li><img src="youtube.png" alt="YouTube" width="15" /> YouTube</li>
-        <li><img src="insta.png" alt="Instagram" width="15" /> Instagram</li>
-        <li><img src="facebook.png" alt="Facebook" width="15" /> Facebook</li>
+        <li><img src="twitter.png" alt="Twitter" width="16" /> Twitter</li>
+        <li><img src="youtube.png" alt="YouTube" width="18" /> YouTube</li>
+        <li><img src="insta.png" alt="Instagram" width="19" /> Instagram</li>
+        <li><img src="facebook.png" alt="Facebook" width="19" /> Facebook</li>
       </ul>
     </div>
     <div class="container">
@@ -82,3 +82,4 @@
     </div>
   </body>
 </html>
+
